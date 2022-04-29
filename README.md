@@ -1,5 +1,6 @@
 # Mycellaneous Aventures
 A small 2D game made in C++ using SDL2
+
 You control a small mushroom person, that's it!
 
 ### Installation
