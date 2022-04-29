@@ -1,7 +1,7 @@
-#H1 Mycellaneous Aventures
+# Mycellaneous Aventures
 A small game in C++ using SDL2
 
-#H3 Installation
+### Installation
 
 'Make all' to install
 
@@ -9,7 +9,7 @@ A small game in C++ using SDL2
 
 './bin/Test' to play
 
-#H3 Gameplay
+### Gameplay
 
   ↑
 ← ↓ →  : Move Around
