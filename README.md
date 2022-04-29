@@ -1,5 +1,5 @@
 # Mycellaneous Aventures
-A small game in C++ using SDL2
+A small 2D game in C++ using SDL2
 
 ### Installation
 
